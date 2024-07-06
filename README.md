@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Arbind-sah
+- 👋 Hi, I’m @Arbind-kumar-sah
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React js
 - 💞️ I’m looking to collaborate on Front-End in an reputed organization.
