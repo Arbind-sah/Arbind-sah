@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Arbind-kumar-sah
 - 👀 I’m interested in AI and ML.
 - 🌱 I’m currently learning Python with AI, ML and Deep Learning.
-- 🏫 I want to coooerate with other AI/ML engineers to share knowledge and experience.
+- 🏫 I want to collaborate with other AI/ML engineers to share knowledge and experience.
 - 
 
 <!---
